@@ -14,3 +14,6 @@ Short-living VMs abusing Github Actions for testing all kinds of things. :eyes:
 <br>You can change this by editing the `timeout-minutes` field in the workflow file.
 
 [^1]: Note that private repositories do not have unlimited workflow minutes and thus using the scripts here frequently may cost you money.
+
+## Credits
+This repository is mostly just a wrapper around https://github.com/mxschmitt/action-tmate.
